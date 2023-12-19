@@ -12,12 +12,12 @@
         "client": {
             "sha1": "075202b221772d59ebfee76c4e02cf1bab7edaf0",
             "size": 9513848,
-            "url": "https://github.com/Better-than-Adventure/bta-download-repo/releases/download/v7.1-prerelease-1/better-than-adventure-7.1.Prerelease.1a-client.jar" 
+            "url": "https://github.com/Better-than-Adventure/bta-download-repo/releases/download/v7.1-prerelease-1a/better-than-adventure-7.1.Prerelease.1a-client.jar" 
         },
         "server": {
             "sha1": "54b282046419ce8d74b005156c5370f86f86d16c",
             "size": 6167569,
-            "url": "https://github.com/Better-than-Adventure/bta-download-repo/releases/download/v7.1-prerelease-1/better-than-adventure-7.1.Prerelease.1a-server.jar"
+            "url": "https://github.com/Better-than-Adventure/bta-download-repo/releases/download/v7.1-prerelease-1a/better-than-adventure-7.1.Prerelease.1a-server.jar"
         }
     },
     "id": "7.1 Prerelease 1a",
